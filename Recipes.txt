@@ -6,6 +6,9 @@ pasta
 
 Chicken fry
 
+beans
+pizza
+
 
 
 
