@@ -6,6 +6,9 @@ pasta
 
 Chicken fry
 
+beans
+pizza
+
 
 
 
@@ -13,6 +16,9 @@ Chicken fry
 
 
 Thank you :)
+
+
+Done my changes
 
 
 
